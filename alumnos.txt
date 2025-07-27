@@ -1,6 +1,6 @@
-Alumnos/as: 
-Cuatrimestre: 
-Comisión: 
-Turno: 
-Materia: 
-Profesor: 
+Alumnos/as: FERNANDEZ PABLO SEBASTIAN
+Cuatrimestre: 2 CUATRIMESTRE
+Comisión: [25-1][DWN2AV]
+Turno: NOCHE
+Materia: Programación I
+Profesor: Carlassara Fabrizio
